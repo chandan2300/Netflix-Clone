@@ -5,6 +5,10 @@ Deployed Site - https://netflix-clone-5e5dc.web.app/
 Click on any movie of your choice and view the trailer.
 Enjoy!!!
 
+# Tech Stack
+
+Built Using ReactJs + Material UI and deployed using Firebase.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
